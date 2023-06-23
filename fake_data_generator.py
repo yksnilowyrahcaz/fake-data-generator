@@ -11,7 +11,6 @@ def generate_fake_df(
 ) -> pd.DataFrame:
     '''
     Generate a random data set as a pandas dataframe.
-    Choose the number of columns and the file size.
 
     :param num_cols: number of columns
     :type num_cols: int
